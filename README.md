@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+" Right… What the hell kind of name is Soap, eh? How'd a muppet like you pass Selection?"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-28 13:02:24.617487+05:30** | **1**
+**2021-11-28 13:11:27.784751+05:30** | **1**
