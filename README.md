@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" Do NOT trust Shepherd- I say again, DO NOT TRUST SHEPHERD! Soap! GET DOWN!"
+" What's the matter? You look like you've just seen a ghost."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 05:21:37.329230+05:30** | **4**
+**2021-11-29 05:50:00.278812+05:30** | **0**
