@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You did it, Mason! You did what I could not!"
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 16:09:42.300600+05:30** | **1**
+**2021-11-29 16:17:22.813128+05:30** | **1**
