@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"FUUUUUUUCK!"
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 03:02:15.439155+05:30** | **1**
+**2021-12-03 03:11:39.987793+05:30** | **1**
