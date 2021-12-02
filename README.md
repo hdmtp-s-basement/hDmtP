@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
+" Roger that Soap. I've found Roach. He appears to be intact."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 18:11:11.231136+05:30** | **0**
+**2021-12-02 18:35:25.925976+05:30** | **0**
