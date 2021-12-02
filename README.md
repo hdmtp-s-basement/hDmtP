@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 23:35:12.567078+05:30** | **1**
+**2021-12-02 23:59:21.004655+05:30** | **1**
