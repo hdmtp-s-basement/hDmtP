@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"No, no, no, somethin's wrong. There's way too much activity."
+" Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 02:05:51.591291+05:30** | **1**
+**2021-12-04 02:14:02.655476+05:30** | **1**
