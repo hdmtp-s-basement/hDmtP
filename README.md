@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You did it, Mason! You did what I could not!"
+" Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 05:06:19.362172+05:30** | **12**
+**2021-12-05 05:14:59.609472+05:30** | **12**
