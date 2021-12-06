@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"No, no, no, somethin's wrong. There's way too much activity."
+" Everyone breaks, Elias!"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 19:01:00.583511+05:30** | **8**
+**2021-12-06 19:14:40.051050+05:30** | **8**
