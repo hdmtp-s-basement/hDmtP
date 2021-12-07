@@ -115,6 +115,11 @@ quotes = {
         
 }
 
+gifs = {
+    0: ["https://user-images.githubusercontent.com/65482473/145095893-faca1889-1dff-4d8e-bc1b-c5b43e7c0dff.gif"]
+
+}
+
 def choice():
     keys = (list(quotes.keys()))
 
