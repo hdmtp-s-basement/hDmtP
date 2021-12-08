@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Prisoner 627. I'm coming for you, Makarov."
+"If u wanna get something done right, do it yourself"
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 02:07:46.124856+05:30** | **21**
+**2021-12-09 02:15:25.139396+05:30** | **21**
