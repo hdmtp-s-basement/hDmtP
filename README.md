@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 01:21:39.584319+05:30** | **21**
+**2021-12-09 01:35:52.928502+05:30** | **21**
