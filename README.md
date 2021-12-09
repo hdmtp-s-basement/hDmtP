@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Damn it! Why can't you remember!?"
+"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 20:04:08.309376+05:30** | **75**
+**2021-12-09 20:12:27.708678+05:30** | **75**
