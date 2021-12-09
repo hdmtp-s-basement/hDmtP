@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"It's Weaver. He's burnt."
+"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 09:22:56.911292+05:30** | **0**
+**2021-12-09 09:36:58.588340+05:30** | **0**
