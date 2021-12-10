@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The package is aboard a medium freighter. Estonian registration number 52775. There is a small crew and security detail onboard."
+"Understand, Yuri: this is only the beginning."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 19:10:20.280186+05:30** | **10**
+**2021-12-10 19:16:17.182872+05:30** | **10**
