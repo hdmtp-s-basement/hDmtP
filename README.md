@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Time to work, soldiers."
+"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 11:21:28.386955+05:30** | **0**
+**2021-12-10 11:36:49.493022+05:30** | **0**
