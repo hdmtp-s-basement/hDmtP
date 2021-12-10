@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
+"Makarov wouldn't let this travel lightly if it didn't serve a greater purpose, and chances are the bastard will be there personally to see things off. If he's back on the grid...then so are we"
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 11:36:49.493022+05:30** | **0**
+**2021-12-10 12:00:25.383714+05:30** | **0**
