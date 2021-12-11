@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
+"Martyr me...for Cordis Die."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-12 04:34:21.493917+05:30** | **9**
+**2021-12-12 04:53:47.682600+05:30** | **9**
