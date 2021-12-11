@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
+"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-11 10:03:14.299718+05:30** | **0**
+**2021-12-11 10:23:40.298255+05:30** | **0**
