@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, my comrades... Vorkuta... BURNS!!!"
+"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
 </h3>
 <br>
 <br>
@@ -24,4 +24,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-12 22:58:10.926322+05:30** | **3**
+**2021-12-12 23:11:50.755004+05:30** | **3**
