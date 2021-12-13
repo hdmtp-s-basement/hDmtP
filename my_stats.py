@@ -17,18 +17,27 @@ sc = '''
 <h3 align="center" margin=30px>
 ''' + f"\"{choice()}\"" + '''
 </h3>
+
+<br>
+
+![Tests](https://github.com/hDmtP/hDmtP/actions/workflows/main.yml/badge.svg)
+
 <br>
 <br>
-<br>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
-<hr>
-![Movement - Imgur](https://user-images.githubusercontent.com/65482473/145084467-c34802cd-5684-425a-9ed3-ba09d4baa9cd.gif)
+''' + f"<img src=\"{choice_gif()}\" align=\"center\">" + '''
 </p>
+
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hDmtP&langs_count=12)](https://github.com/hDmtP/github-readme-stats)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hdmtp&show_icons=true&theme=radical) 
+
 <hr>
+
+
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
 ''' + f"**{datetime_NY[:10]}**| **{datetime_NY[10:26]}** | **{sum([day.count for day in contribs_2021.days])}**"
