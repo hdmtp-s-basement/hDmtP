@@ -38,7 +38,7 @@ sc = '''
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-''' + f"**{datetime_NY[:10]}**| **{datetime_NY[10:26]}** | **{sum([day.count for day in contribs_2021.days])}**"
+''' + f"**{datetime_NY[:10]}**| **{datetime_NY[11:26]}** | **{sum([day.count for day in contribs_2021.days])}**"
 
 f = open("README.md", "w")
 f.write(sc)
