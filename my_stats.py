@@ -25,9 +25,7 @@ sc = '''
 <br>
 <br>
 
-<p align="center">
-''' + f"<img src=\"{choice_gif()}\" align=\"center\">" + '''
-</p>
+
 
 <hr>
 
