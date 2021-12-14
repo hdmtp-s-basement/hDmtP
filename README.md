@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Grab some supplies and get off to Paris. They need you there."
+"Today, we show the world our true strength. Perhaps it will give you some as well."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-14**| **19:09:55.064175** | **5**
+**2021-12-14**| **19:15:56.166337** | **5**
