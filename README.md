@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Look at what you did. [Rorke kicks Hesh] You're good. You would have been a hell of a Ghost. But that's not gonna happen. There ain't gonna be any Ghosts... We're gonna destroy them together."
+"Today, we show the world our true strength. Perhaps it will give you some as well."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-14**| **10:03:31.508188** | **0**
+**2021-12-14**| **10:23:47.318197** | **0**
