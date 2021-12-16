@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I see...this is what we are dealing with, brothers. A stubborn old man, hopelessly out of step with the changing world.You too, will change. Are you listening?"
+"What's the matter? You look like you've just seen a ghost."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-16**| **23:02:23.045225** | **6**
+**2021-12-16**| **23:16:58.217105** | **6**
