@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"This is it... Ready to make history?"
+"We're gonna have one shot to grab the President before he gives up the launch codes and Makarov turns Europe into glass. Once we get boots on the ground, it's going to get lively down there."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-17**| **00:49:19.718874** | **6**
+**2021-12-17**| **00:56:13.708685** | **6**
