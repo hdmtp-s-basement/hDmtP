@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, my comrades... Vorkuta... BURNS!!!"
+"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-17**| **04:13:39.659454** | **6**
+**2021-12-17**| **04:21:38.796786** | **6**
