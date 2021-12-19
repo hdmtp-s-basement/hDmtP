@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
+"I DECIDE WHAT IS NECESSARY!"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-19**| **21:08:59.959320** | **0**
+**2021-12-19**| **21:19:22.216236** | **0**
