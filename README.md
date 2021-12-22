@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You think I am mad, but soon, you shall see, that every move, every strike, was meant to bring us to this."
+"All right. Let's top these bastards before they kill the old man."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-23**| **04:35:04.709050** | **5**
+**2021-12-23**| **04:54:46.834038** | **5**
