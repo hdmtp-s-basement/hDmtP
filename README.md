@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
+"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-28**| **05:05:48.320388** | **1**
+**2021-12-28**| **05:13:53.650096** | **1**
