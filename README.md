@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Первый. Уничтожите вражескую надежду на победу. (First. Destroy the enemy's hope for victory.), Второй. Используйте все в своих интересах. (Second. Use everything to your advantage.), Третий. Используйте слабости противника. (Third. Take advantage of your enemy's weakness.), Четвёртый. Атакуйте с неожиданной стороны. (Fourth. Attack from the unexpected side.)"
+"Where am I? Where's Reznov?"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-27**| **17:11:51.885117** | **0**
+**2021-12-27**| **17:21:41.003091** | **0**
