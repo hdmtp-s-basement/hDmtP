@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Shit, son."
+"Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-28**| **14:24:46.916968** | **1**
+**2021-12-28**| **14:35:22.874605** | **1**
