@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition."
+"You did it, Mason! You did what I could not!"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-29**| **21:20:51.834986** | **5**
+**2021-12-29**| **21:37:27.624943** | **5**
