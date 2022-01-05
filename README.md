@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Every man has his weakness. (to his men) Find the girl."
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-05**| **21:24:22.572772** | **1**
+**2022-01-05**| **21:37:49.034669** | **1**
