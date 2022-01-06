@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"It matters not, I am one step ahead of him"
+"They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-06**| **15:58:28.814730** | **3**
+**2022-01-06**| **16:11:53.098757** | **3**
