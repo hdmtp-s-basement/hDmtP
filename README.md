@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
+"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-12**| **04:56:15.284550** | **1**
+**2022-01-12**| **05:08:37.032992** | **1**
