@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"If u wanna get something done right, do it yourself"
+"Shepherd is using Site Hotel Bravo. You know where it is. I'll see you in hell."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-15**| **20:55:56.161166** | **2**
+**2022-01-15**| **21:09:47.882984** | **2**
