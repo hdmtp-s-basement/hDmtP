@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Don't see that everyday... You're alright, I suppose."
+"I made the mistake of not confirming the kill five years ago at Baikonur."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-18**| **12:22:41.744871** | **0**
+**2022-01-18**| **12:35:31.388059** | **1**
