@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Come my friends. 'Tis not too late to seek a newer world."
+"Jason Hudson, CIA. We're here to talk about your encounter with Russians in Laos. We got word a defector might be in play."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-19**| **16:57:25.967494** | **4**
+**2022-01-19**| **17:03:29.105437** | **4**
