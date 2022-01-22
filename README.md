@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I DECIDE WHAT IS NECESSARY!"
+"The symbols you have always looked to for strength, are smoldering in ruins. This is what your greed has brought you."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-23**| **01:52:42.612763** | **10**
+**2022-01-23**| **02:02:25.998391** | **10**
