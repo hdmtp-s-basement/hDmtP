@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"What's the matter? You look like you've just seen a ghost."
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-26**| **14:08:12.133317** | **4**
+**2022-01-26**| **14:15:10.043943** | **4**
