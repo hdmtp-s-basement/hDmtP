@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Shepherd is using Site Hotel Bravo. You know where it is. I'll see you in hell."
+"Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-28**| **17:38:26.613378** | **0**
+**2022-01-28**| **18:08:21.690813** | **0**
