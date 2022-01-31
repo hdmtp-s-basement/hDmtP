@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Makarov wouldn't let this travel lightly if it didn't serve a greater purpose, and chances are the bastard will be there personally to see things off. If he's back on the grid...then so are we"
+"I made the mistake of not confirming the kill five years ago at Baikonur."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-01**| **04:35:27.466448** | **2**
+**2022-02-01**| **04:52:59.750160** | **2**
