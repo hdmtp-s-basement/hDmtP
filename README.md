@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"First off, we've intercepted a shipment of Gewehr 43's. I'll give the Krauts one thing, they know how to make a sturdy bloody rifle."
+"Price, one day, you're going to find that cuts both ways."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-06**| **19:21:47.465246** | **2**
+**2022-02-06**| **19:34:23.411181** | **2**
