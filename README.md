@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You think I am mad, but soon, you shall see, that every move, every strike, was meant to bring us to this."
+"Fuck! Okay...Me! Do it... DO IT!!!"
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-06**| **10:00:47.875707** | **1**
+**2022-02-06**| **10:19:15.271569** | **1**
