@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Every man has his weakness. (to his men) Find the girl."
+"Today, we show the world our true strength. Perhaps it will give you some as well."
 </h3>
 
 <br>
@@ -24,4 +24,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-10**| **04:11:29.838543** | **2**
+**2022-02-10**| **04:21:37.196682** | **2**
