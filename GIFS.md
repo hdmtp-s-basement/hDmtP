@@ -45,3 +45,43 @@
 ### You suffer with me
 
 ![u_suffer_with_with_me](https://user-images.githubusercontent.com/65482473/153223945-04669174-0fe4-4463-9b45-7aa8f746b6fe.gif)
+
+### the healthy human mind
+
+![the_healthy_human_mind](https://user-images.githubusercontent.com/65482473/153423543-58f8ef09-79db-4712-b62d-6279ad5116af.gif)
+
+### right what the hell kinda name is soap is soap eeh?
+
+![right_what_the_hell_kinda_name_is_soap](https://user-images.githubusercontent.com/65482473/153423700-d096930d-b353-42bc-a3c9-7238a7d4f7b9.gif)
+
+### The package is aboard a medium freighter. Estonian 
+
+![th_package_is_onboard_estonian](https://user-images.githubusercontent.com/65482473/153423810-d2aeb2e4-8912-4f21-a2dc-d957951d4237.gif)
+
+### Nikolai's in hell right now, we're gonna walk him out. We take care of our friends
+
+![nikolai_is_in_hell_right_now](https://user-images.githubusercontent.com/65482473/153423922-20f9e239-303b-4821-8c31-887fb3c521cf.gif)
+
+### All right. Let's top these bastards before they kill the old man
+
+![aight_lets_top_this_bastard_before_they_kill_the_old_man](https://user-images.githubusercontent.com/65482473/153424059-238a14bd-8f4a-437c-9725-b6b5434febb0.gif)
+
+### Why'd you do it? Where did you get the bomb?
+
+![whyd_u_do_it_where_did_u_get_the_bomb](https://user-images.githubusercontent.com/65482473/153424147-86838716-a813-4872-9064-a79ff0954e0d.gif)
+
+### Zakhaev's son, commander of the Ultranationalist forces in the field. Rotte
+
+![zakhaevs-son-commander-of-the-ultranationalist-forces](https://user-images.githubusercontent.com/65482473/153424224-7399846c-8704-40aa-a28e-c800c95fa2e4.gif)
+
+### They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!
+
+![they_have_started_a_blodd_countdown](https://user-images.githubusercontent.com/65482473/153424459-aa4bf9d6-512c-479f-827e-ea15ce43f1b1.gif)
+
+### Well at least the world didn't end. Hit it
+
+![well_at_least_the_world_didnt_end_hit_it](https://user-images.githubusercontent.com/65482473/153424540-e25ca93c-97d3-4e79-8d53-77a0b36dcd4b.gif)
+
+### Roger that Soap. I've found Roach. He appears to be intact
+
+![roger_that_soap_i_found_roach](https://user-images.githubusercontent.com/65482473/153424733-321e8137-1dbd-422b-a2b9-f9a04b664afe.gif)
