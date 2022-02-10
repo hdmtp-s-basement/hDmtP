@@ -31,6 +31,12 @@ sc = '''
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hDmtP&langs_count=12)](https://github.com/hDmtP/github-readme-stats)
 
+<h2> Visitor's count 👀</h2>
+
+<p><img src="https://profile-counter.glitch.me/{nis130}/count.svg" alt="nis130 :: Visitor's Count" /></p>
+
+<br>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hdmtp&show_icons=true&theme=radical) 
 
 <hr>
