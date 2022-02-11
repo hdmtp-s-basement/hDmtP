@@ -85,3 +85,31 @@
 ### Roger that Soap. I've found Roach. He appears to be intact
 
 ![roger_that_soap_i_found_roach](https://user-images.githubusercontent.com/65482473/153424733-321e8137-1dbd-422b-a2b9-f9a04b664afe.gif)
+
+### Do NOT trust Shepherd-
+
+![do_not_trust_shephered](https://user-images.githubusercontent.com/65482473/153600635-2c404723-88ed-4735-85bd-86f202209973.gif)
+
+### Makarov wouldn't let this travel lightly if 
+
+![chances_are_the_bastard_wll](https://user-images.githubusercontent.com/65482473/153600698-4125ed95-01f6-4ed4-b0a3-862b8efae4ef.gif)
+
+### Soap TRUSTED you. I thought I could
+
+![soap_trusted_u](https://user-images.githubusercontent.com/65482473/153600776-00ef96d6-580e-4a32-89b2-b683ebc7b379.gif)
+
+### We're gonna have one shot to grab the President before he gives u
+
+![we_r_gonna_have_one_shot_to](https://user-images.githubusercontent.com/65482473/153600836-c8eff82a-8bc6-4ff0-b71d-14cf7ae376ed.gif)
+
+### Prisoner 627. I'm coming for you, Makarov
+
+![prisoner_627](https://user-images.githubusercontent.com/65482473/153600905-fdae62f6-62de-4906-bc70-22ed182aa9fa.gif)
+
+### My war ends with you
+
+![my_war_ends_with_u](https://user-images.githubusercontent.com/65482473/153600963-4c7f540c-58a1-4008-9f5e-4b731f7ae0eb.gif)
+
+### You wouldn't have to look far
+
+![u_wouldnt_have_to_look_far](https://user-images.githubusercontent.com/65482473/153601021-af144f8a-6252-44c1-8869-70c4ae432cac.gif)
