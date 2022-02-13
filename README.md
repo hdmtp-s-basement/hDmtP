@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, we show the world our true strength. Perhaps it will give you some as well."
+"Zakhaev's son, commander of the Ultranationalist forces in the field. Rotten apple doesn't fall far from the tree. The Loyalist, Kamarov, has got a location on the kid."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-13**| **22:50:46.707019** | **1**
+**2022-02-13**| **23:01:57.718772** | **1**
