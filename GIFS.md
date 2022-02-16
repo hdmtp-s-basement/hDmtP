@@ -113,3 +113,35 @@
 ### You wouldn't have to look far
 
 ![u_wouldnt_have_to_look_far](https://user-images.githubusercontent.com/65482473/153601021-af144f8a-6252-44c1-8869-70c4ae432cac.gif)
+
+### What happens here today will change the world forever
+
+![nothing_can_stop_this_not_even_u](https://user-images.githubusercontent.com/65482473/154327695-8c785be0-78a0-41d2-8b77-074e5772cc47.gif)
+
+### This deal will generate millions for our cause.
+
+
+
+### So Makarov is the prize.
+
+![so_makarov_is_the_prize](https://user-images.githubusercontent.com/65482473/154327933-6a0d3189-dcc9-4523-8c36-aa89197a4a32.gif)
+
+### The American thought he could deceive us. When they find that bo
+
+![the_american_thought_they_could_decieve_us](https://user-images.githubusercontent.com/65482473/154328046-5846b326-fa54-4abf-bc6c-55b2be04c7f1.gif)
+
+### Russia will take all of Europe, even if it must stand upon a pile of ashe
+
+![russia_will_take_all_of_urope_even_it](https://user-images.githubusercontent.com/65482473/154328132-4c7d5320-70d8-40fa-a760-f6051e67e018.gif)
+
+### Every man has his weakness. (to his men) Find the girl
+
+![every_man_has_his_weakness_find_the_girl](https://user-images.githubusercontent.com/65482473/154328247-d464bb67-3593-4bc4-b607-4a231e761f2a.gif)
+
+### Yuri, my friend. You never should have come here.
+
+![yuri_my_friend_u_never_should_have_come_here](https://user-images.githubusercontent.com/65482473/154328321-1e1e6767-0719-40d6-8f5f-1ee2067c9f5b.gif)
+
+### Goodbye, Captain Price.
+
+![goodbye_capt_price](https://user-images.githubusercontent.com/65482473/154328417-46e1fad0-6961-4855-9e81-1dd34f4470de.gif)
