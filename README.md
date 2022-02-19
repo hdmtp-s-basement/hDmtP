@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Jason Hudson, CIA. We're here to talk about your encounter with Russians in Laos. We got word a defector might be in play."
+"We're gonna have one shot to grab the President before he gives up the launch codes and Makarov turns Europe into glass. Once we get boots on the ground, it's going to get lively down there."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-19**| **21:13:51.687527** | **1**
+**2022-02-19**| **21:21:24.054112** | **1**
