@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"It matters not, I am one step ahead of him"
+"I made the mistake of not confirming the kill five years ago at Baikonur."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-22**| **00:48:04.089057** | **3**
+**2022-02-22**| **00:54:11.952111** | **3**
