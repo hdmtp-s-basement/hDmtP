@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I keep hearing the fucking numbers!"
+"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-26**| **16:21:44.495395** | **1**
+**2022-02-26**| **16:34:59.926192** | **1**
