@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
+"Fuck! Okay...Me! Do it... DO IT!!!"
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-27**| **04:53:33.347979** | **2**
+**2022-02-27**| **05:03:36.078139** | **2**
