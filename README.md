@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, my comrades... Vorkuta... BURNS!!!"
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-27**| **08:56:34.055011** | **1**
+**2022-02-27**| **09:05:18.643977** | **1**
