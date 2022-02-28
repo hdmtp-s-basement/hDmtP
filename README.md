@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
+"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-01**| **05:04:47.197759** | **2**
+**2022-03-01**| **05:12:36.215152** | **2**
