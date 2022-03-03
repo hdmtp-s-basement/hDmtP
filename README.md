@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
+"Look at what you did. [Rorke kicks Hesh] You're good. You would have been a hell of a Ghost. But that's not gonna happen. There ain't gonna be any Ghosts... We're gonna destroy them together."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-03**| **13:21:31.758419** | **0**
+**2022-03-03**| **13:38:05.771800** | **0**
