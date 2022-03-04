@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
+"All right. Let's top these bastards before they kill the old man."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-04**| **19:34:48.598388** | **8**
+**2022-03-04**| **19:52:10.957684** | **8**
