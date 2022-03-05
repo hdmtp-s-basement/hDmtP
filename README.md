@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Lastly, the GPMG, a light machine gun that can drop an entire squad faster than you can blink, mate."
+"I DECIDE WHAT IS NECESSARY!"
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-05**| **05:21:41.777370** | **8**
+**2022-03-05**| **05:58:52.701431** | **0**
