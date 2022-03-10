@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
+"Price, one day, you're going to find that cuts both ways."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-10**| **20:37:18.204573** | **1**
+**2022-03-10**| **20:58:24.794700** | **1**
