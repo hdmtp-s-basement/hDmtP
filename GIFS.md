@@ -120,6 +120,7 @@
 
 ### This deal will generate millions for our cause.
 
+![money_can_buy_many_things_even_power](https://user-images.githubusercontent.com/65482473/158032336-841824af-a086-4d1b-91f3-35bf5e7d4d36.gif)
 
 
 ### So Makarov is the prize.
@@ -145,3 +146,69 @@
 ### Goodbye, Captain Price.
 
 ![goodbye_capt_price](https://user-images.githubusercontent.com/65482473/154328417-46e1fad0-6961-4855-9e81-1dd34f4470de.gif)
+
+
+### С нами бог. Remember - no Russian.
+
+![remember_no_russian](https://user-images.githubusercontent.com/65482473/158032145-07d0ddd2-0977-434e-9925-52986d6504ab.gif)
+
+
+### For Zakhaev.
+
+![for_zakhaev](https://user-images.githubusercontent.com/65482473/158031948-eace8299-05b2-4c0e-ae96-995f155807bc.gif)
+
+### Price, one day, you're going to find that cuts both ways
+
+![find_cut_both_ways](https://user-images.githubusercontent.com/65482473/158031983-27491ada-438a-456a-b897-3d32e9af59ce.gif)
+
+### Shepherd is using Site Hotel Bravo.
+
+![shepherd_is_using_site_hotel_bravo](https://user-images.githubusercontent.com/65482473/158032002-342d2778-d25a-4bec-8dc4-bce93d1b1fca.gif)
+
+### First. Destroy the enemy's hope for victory.
+
+![attack_from_the_unexpected_side](https://user-images.githubusercontent.com/65482473/158032015-e753f65d-719b-4c09-8b79-6f39b3585473.gif)
+
+### It doesn't take the most powerful nations
+
+![it_dosent_take_the_most_powerful_nations_on_earth](https://user-images.githubusercontent.com/65482473/158032031-ad8d71a3-2113-4b23-8da5-4a37e1e7f1a1.gif)
+
+### you think I am mad, but soon, you shall see, that every move, 
+
+![u_think_i_am_mad](https://user-images.githubusercontent.com/65482473/158032052-5f67c681-ad84-4269-b747-45d3ea59a46c.gif)
+
+### The symbols you have always looked to for strength
+
+![the_symbols_u_have_always_looked](https://user-images.githubusercontent.com/65482473/158032072-404d8e20-5f87-49bb-80fe-eb21bc4bd1fb.gif)
+
+### All warfare is based on deception. For years, the 
+
+![all_warfare_is_based_on_deception](https://user-images.githubusercontent.com/65482473/158032093-fba15726-164b-4652-a4ff-0e9c2258c9e4.gif)
+
+### You know who I am? Then you know what I want
+
+![u_know_who_i_am](https://user-images.githubusercontent.com/65482473/158032108-1b6e0b48-8ed2-42aa-8dd2-224e4b3bade9.gif)
+
+### Captain Price - Ад ждет тебя.
+
+![capt_price_hell_awaits_u](https://user-images.githubusercontent.com/65482473/158032123-0b871135-3abf-4b68-a8a1-cd5f3c23156f.gif)
+
+### Today, we show the world our true strength. Perhaps i
+
+![today_we_show_the_world_our_true_strength](https://user-images.githubusercontent.com/65482473/158032165-2b092835-6398-422b-8da3-940275a14c49.gif)
+
+### Understand, Yuri: this is only the beginning."
+
+![understand_yuri_this_is_only_the_beginning](https://user-images.githubusercontent.com/65482473/158032179-20e1e864-aa9c-4cf0-902f-280da9d4bc74.gif)
+
+### I see...this is what we are dealing with, brothers. A
+
+![this_is_what_we_r_dealing_with_brothers](https://user-images.githubusercontent.com/65482473/158032204-82431528-d62d-4cfa-adec-4011f72f5379.gif)
+
+### Like it ended for Captain MacTavish?
+
+![like_it_ended_4_capt_mactavish](https://user-images.githubusercontent.com/65482473/158032246-d8388213-b4b0-4e60-bac1-e958edf63991.gif)
+
+### I've destroyed your world piece by piece. It's only a
+
+![i_have_destroyed_ur_world_piece_by_piece](https://user-images.githubusercontent.com/65482473/158032299-7aa05eca-7767-40f9-b674-8bfacc56692c.gif)
