@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
+"You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-20**| **20:56:20.814049** | **2**
+**2022-03-20**| **21:08:24.739475** | **2**
