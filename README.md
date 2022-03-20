@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-20**| **21:08:24.739475** | **2**
+**2022-03-20**| **21:25:50.954576** | **2**
