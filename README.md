@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Roger that Soap. I've found Roach. He appears to be intact."
+"Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-26**| **21:16:17.248004** | **1**
+**2022-03-26**| **21:22:13.041675** | **1**
