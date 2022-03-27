@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
+"Jason Hudson, CIA. We're here to talk about your encounter with Russians in Laos. We got word a defector might be in play."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-27**| **16:07:47.859189** | **1**
+**2022-03-27**| **16:14:42.108844** | **1**
