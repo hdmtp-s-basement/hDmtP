@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
+"You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-28**| **14:26:38.939107** | **1**
+**2022-03-28**| **14:37:54.749588** | **1**
