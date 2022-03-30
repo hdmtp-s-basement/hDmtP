@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" You know our laws, son. You fail to protect your brothers...you join them in death."
+"We're gonna have one shot to grab the President before he gives up the launch codes and Makarov turns Europe into glass. Once we get boots on the ground, it's going to get lively down there."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-30**| **16:51:08.499491** | **3**
+**2022-03-30**| **17:01:44.862731** | **4**
