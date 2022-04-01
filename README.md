@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
+"Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-02**| **05:05:48.837074** | **3**
+**2022-04-02**| **05:13:22.113074** | **3**
