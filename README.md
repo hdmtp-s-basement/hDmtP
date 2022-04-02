@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Then we have the Sten. This lightweight SMG is quite the little firecracker, just the ticket for the some close-quarters butchering."
+"Or you can give us what we want, and we guarantee your safety."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-02**| **11:02:07.941934** | **1**
+**2022-04-02**| **11:11:25.814209** | **1**
