@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The name's Butcher, your new quartermaster for the duration of the Winter Siege"
+"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-02**| **16:33:48.067879** | **1**
+**2022-04-02**| **16:50:28.261338** | **1**
