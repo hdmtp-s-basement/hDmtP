@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I'm Captain Butcher of the SOE. Well, retired Captain Butcher these days. I was in charge of the SOE during the war. Ever heard of Vanguard?"
+"You will move without boundries. You will act above the law. You will use any means necessary to stop the wars that are hidden from the world. And if you succeed, you will do so, without any recognition. Because you do not exist."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-03**| **13:11:23.025865** | **2**
+**2022-04-03**| **13:21:43.279379** | **2**
