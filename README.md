@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
+"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-06**| **00:37:15.334263** | **1**
+**2022-04-06**| **00:50:59.457494** | **1**
