@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Come my friends. 'Tis not too late to seek a newer world."
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-07**| **20:21:35.721807** | **1**
+**2022-04-07**| **20:36:01.261842** | **1**
