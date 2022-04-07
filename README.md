@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
+"Makarov wouldn't let this travel lightly if it didn't serve a greater purpose, and chances are the bastard will be there personally to see things off. If he's back on the grid...then so are we"
 </h3>
 
 <br>
@@ -30,4 +30,4 @@
 
 Today's Date | Time Last Updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-08**| **05:13:32.116293** | **1**
+**2022-04-08**| **05:21:27.985596** | **1**
