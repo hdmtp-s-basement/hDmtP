@@ -212,3 +212,15 @@
 ### I've destroyed your world piece by piece. It's only a
 
 ![i_have_destroyed_ur_world_piece_by_piece](https://user-images.githubusercontent.com/65482473/158032299-7aa05eca-7767-40f9-b674-8bfacc56692c.gif)
+
+### today we reshape the world
+
+![our_motherland_is_led_by (1)](https://user-images.githubusercontent.com/65482473/164874753-97119786-80ad-4441-a7af-99d83cc26b2a.gif)
+
+### comrades, the us and its allies...
+
+![we_will_detonate_them_all_from_safety_of_solvetsky](https://user-images.githubusercontent.com/65482473/164874777-00824300-76cb-498f-9a79-218bf81cf6bc.gif)
+
+### we will need a new home now
+
+![we_will_need_a_new_home_now](https://user-images.githubusercontent.com/65482473/164874796-887ca3c8-e7bf-4892-88c9-a3be373bbc74.gif)
